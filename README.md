@@ -6,5 +6,5 @@
 ## 2) E-mail to someone by your Voice Command.
 ## 3) Search information in Wikipedia and tell you those information.
 ## 4) Opening Applications :- YouTube,Google, Facebook.
-## 5) play Music as per your voice command.
-## 6) tells Time.
+## 5) Play Music as per your voice command.
+## 6) Tells Time.
